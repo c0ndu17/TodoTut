@@ -1,0 +1,16 @@
+
+.todo-list {
+    border: 1px black solid;
+}
+.todo-item {
+    border: 1px red solid;
+    width:  500px;
+    margin: 0 auto;
+}
+.todo-title, .todo-completed {
+  display: inline-block;
+}
+
+.todo-completed {
+     float: right
+}
